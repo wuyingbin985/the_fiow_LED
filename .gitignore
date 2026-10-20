@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+.idea/
+.vscode/
+*.ioc.bak
+.mxproject
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
